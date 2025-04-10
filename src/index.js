@@ -21,7 +21,7 @@ function App() {
                 colSpan={2}
                 style={{ background: "" }}
               >
-                Indicators
+                Indicator
               </TableCell>
 
               <TableCell
@@ -29,7 +29,7 @@ function App() {
                 colSpan={2}
                 style={{ border: "2px solid lightGray" }}
               >
-                Age0-2M
+                Age0-2Months
               </TableCell>
               <TableCell
                 align="center"
